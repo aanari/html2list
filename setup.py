@@ -1,14 +1,19 @@
 #!/usr/bin/env python
 from setuptools import setup, find_packages
 
+requires = ['html5lib',
+            'lxml']
+
 setup(name= 'html2list',
-      version='0.1.5',
+      version='0.1.6',
       description='A library for converting html markup from an email or webpage into a list',
       long_description='',
       author='Ali Anari',
       author_email='ali@alianari.com',
       license='BSD',
       zip_safe=True,
+      install_requires=requires,
+      tests_require=requires
       classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
