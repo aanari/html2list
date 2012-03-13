@@ -1,8 +1,0 @@
-setup.py
-html2list/__init__.py
-html2list/html2list.py
-html2list.egg-info/PKG-INFO
-html2list.egg-info/SOURCES.txt
-html2list.egg-info/dependency_links.txt
-html2list.egg-info/top_level.txt
-html2list.egg-info/zip-safe
