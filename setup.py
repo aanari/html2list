@@ -13,7 +13,7 @@ setup(name= 'html2list',
       license='BSD',
       zip_safe=True,
       install_requires=requires,
-      tests_require=requires,
+      tests_require=requires
       classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
