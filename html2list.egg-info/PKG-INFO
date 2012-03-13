@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: html2list
+Version: 0.1.5
+Summary: A library for converting html markup from an email or webpage into a list
+Home-page: https://github.com/aanari/html2list
+Author: Ali Anari
+Author-email: ali@alianari.com
+License: BSD
+Description: UNKNOWN
+Keywords: python html email txt sms markup extraction
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Programming Language :: Python :: 2
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
