@@ -9,5 +9,9 @@ Installation
 Usage
 -----
 
-    from html2list.html2list import html2list
-    html2list('<h1>This</h1>Works<sup>Awesome</sup>')
+```python
+from html2list.html2list import html2list
+html2list('<h1>This</h1>Works<sup>Awesome</sup>')
+```
+
+    ['This', 'Works', 'Awesome']
